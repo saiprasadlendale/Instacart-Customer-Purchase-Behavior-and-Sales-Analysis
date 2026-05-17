@@ -33,6 +33,13 @@ The project includes:
 - Order frequency analysis
 - Product category performance
 
+## Dataset Access
+
+Due to GitHub file size limitations, the complete dataset is hosted externally.
+
+Dataset Link:
+https://drive.google.com/drive/folders/1Z4iXD4DjxNXEJZWoGLL_XYigFXF2rCF6
+
 ## Dashboard Preview
 <img width="1246" height="715" alt="image" src="https://github.com/user-attachments/assets/916b6497-9ab1-4a6a-964b-d50869a91428" />
 
